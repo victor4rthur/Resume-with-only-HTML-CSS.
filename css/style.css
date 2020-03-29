@@ -1,0 +1,135 @@
+body {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+h1 {
+  width: 26%;
+}
+
+h2 {
+  font-family: indie flower, cursive;
+  text-align: center;
+  font-size: 200%;
+}
+
+h3 {
+  font-family: indie flower, cursive;
+  text-align: center;
+  font-size: 200%;
+  margin-bottom: 1px;
+}
+
+.top {
+  margin-bottom: 0;
+  background-color: #5b8c85;
+}
+
+.middle1 {
+  text-align: center;
+  margin-top: 0;
+  background-color: #d7fffd;
+}
+
+
+
+.pro {
+  text-decoration: underline;
+}
+
+.tag-right {
+  height: 330px;
+  width: 400px;
+  position: absolute;
+  top: 200px;
+  left: 50px;
+}
+
+.tag-left {
+  height: 330px;
+  width: 400px;
+  position: absolute;
+  bottom: 135px;
+  left: 920px;
+}
+
+.pc {
+  height: 900;
+  width: 600;
+  position: absolute;
+  right: 280px;
+  top: 275px;
+}
+
+.nome {
+  font-size: 300%;
+  width: auto;
+  color: #204051;
+  position: absolute;
+  bottom: 70%;
+  left: 34%;
+  font-family: 'Bad Script', cursive;
+  text-align: center;
+}
+
+.profissao {
+  font-size: 150%;
+  font-weight: normal;
+  position: absolute;
+  left: 555px;
+  bottom: 435px;
+  font-family: Courier New, monaco, monospace;
+}
+
+.profile {
+  margin-top: 10px;
+  text-align: center;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: #ecce6d;
+  border-width: 8px;
+  width: 5%;
+}
+
+.skill-row {
+  position: relative;
+  left:340px;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+  margin-bottom: 0;
+}
+
+.code {
+  width: 25%;
+  float: left;
+  margin-right: 15px;
+}
+
+.pot {
+  width: 23%;
+  float: right;
+  margin-right: 50px;
+}
+
+.skils{height: 960px;}
+
+.skill1 {
+  margin-bottom: 1px;
+}
+
+.skill12 {
+  margin-top: 3px;
+}
+
+.frase {
+  text-align: center;
+}
+.bottom-container {
+  text-align: center;
+  background-color: #f6eec7;
+  margin: 0;
+}
